@@ -8,7 +8,7 @@ Project #3 of Udacity Data Analysis Advanced Nanodegree Program.
  - Tableau public
 
 ## Project in details:
-### USED DATASET:[2015 Flight Delays and Cancellations](https://www.kaggle.com/usdot/flight-delays/data)
+### USED DATASET: [2015 Flight Delays and Cancellations](https://www.kaggle.com/usdot/flight-delays/data)
 
 We will create data visualizations that tell a story or highlight patterns in the data set. our work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015.
