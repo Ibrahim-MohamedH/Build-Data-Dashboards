@@ -24,3 +24,5 @@ Questions asked:
  - B: Weather
  - C: National Air System
  - D: Security
+
+** The colors used in the visualization are chosen that way to be more suitable for people who suffer from color blindness.
