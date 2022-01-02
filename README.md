@@ -18,11 +18,11 @@ Questions asked:
 2- Which airports in the top states have more delays than the others?
 3- Which month has the most delays in the top 2 airports because of human intervene?
 
-** Some of the columns we want to use in our project will have coded values that represent longer more readable values. For instance the "cancellation_reason" column in the flights data set has the values: A, B, C, D These letters are not understandable by themselves; These letters correspond with the following reasons:
+\*Some of the columns we want to use in our project will have coded values that represent longer more readable values. For instance the "cancellation_reason" column in the flights data set has the values: A, B, C, D These letters are not understandable by themselves; These letters correspond with the following reasons:
 
  - A: Airline/Carrier
  - B: Weather
  - C: National Air System
  - D: Security
 
-** The colors used in the visualization are chosen that way to be more suitable for people who suffer from color blindness.
+\*The colors used in the visualization are chosen that way to be more suitable for people who suffer from color blindness.
